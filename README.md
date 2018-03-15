@@ -3,4 +3,4 @@ Skill Balancer is a console application which distributes the right tasks for ev
 without possible work. Users will get only tasks that they could deal with their level(points).
 
 ### Requirements ####
-- python 3.5
+- Python 3.5
