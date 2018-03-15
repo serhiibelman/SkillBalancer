@@ -1,0 +1,76 @@
+{
+    "tasks": {
+        "Too complex task": {
+            "points": 100
+        },
+        "Second task": {
+            "points": 56
+        },
+        "Seventh Task": {
+            "points": 29
+        },
+        "First task": {
+            "points": 39
+        },
+        "Fifth Task": {
+            "points": 10
+        },
+        "Third Task": {
+            "points": 23
+        },
+        "Fourth task": {
+            "points": 31
+        },
+        "Eighth task": {
+            "points": 22
+        },
+        "Sixth task": {
+            "points": 60
+        }
+    },
+    "users": {
+        "Gregoriy": {
+            "points": 76,
+            "efficiency": 0.9210526315789473,
+            "remain_points": 6,
+            "tasks": {
+                "Fourth task": 31,
+                "First task": 39
+            }
+        },
+        "Oleg": {
+            "points": 10,
+            "tasks": {
+                "Fifth Task": 10
+            },
+            "remain_points": 0,
+            "efficiency": 1.0
+        },
+        "Rachel": {
+            "points": 80,
+            "efficiency": 0.975,
+            "remain_points": 2,
+            "tasks": {
+                "Second task": 56,
+                "Eighth task": 22
+            }
+        },
+        "John": {
+            "points": 89,
+            "efficiency": 1.0,
+            "remain_points": 0,
+            "tasks": {
+                "Seventh Task": 29,
+                "Sixth task": 60
+            }
+        },
+        "Christ": {
+            "points": 25,
+            "efficiency": 0.92,
+            "remain_points": 2,
+            "tasks": {
+                "Third Task": 23
+            }
+        }
+    }
+}
